@@ -3,7 +3,7 @@
 
 **Correo**: guido.chipana.c@uni.pe
 
-**URL del repositorio grupal**: [https://github.com/Ox-Chema-xO/Plataforma-de-control-de-calidad-de-codigo-/tree/main](https://github.com/Ox-Chema-xO/Generador-de-manifiestos-de-Kubernetes-parametrizado)
+**URL del repositorio grupal**: https://github.com/Ox-Chema-xO/Generador-de-manifiestos-de-Kubernetes-parametrizado
 
 ## Sprint 1
 Me encargue de:
